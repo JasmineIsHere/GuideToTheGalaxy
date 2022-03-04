@@ -1,1 +1,1 @@
-"# GuideToTheGalaxy" 
+## Guide To The Galaxy App
